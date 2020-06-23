@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\HP\Desktop\IT учеба\C# (ООП)\snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

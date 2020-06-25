@@ -10,11 +10,22 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point();
-            p1.x = 10;
-            p1.y = 7;
-            p1.sym = 'O';
-            p1.Appear();
+            int i;
+            const bool F = false;
+            Console.CursorVisible = F;
+            for (i = 1; i < 100; i++)
+            {
+                Point p1 = new Point();
+                p1.x = i;
+                p1.y = 7;
+                p1.sym = '*';
+                p1.Appear();
+                p1.x = i - 1;
+                p1.sym = ' ';
+                p1.Appear();
+                System.Threading.Thread.Sleep(100);
+            };
+            
 
             Console.ReadLine();
         }
